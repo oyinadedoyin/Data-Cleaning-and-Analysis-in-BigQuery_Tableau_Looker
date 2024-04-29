@@ -3,35 +3,36 @@
 ![goran-ivos-iOykDIkZLQw-unsplash](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/c1b96f6a-c193-45b4-976c-a9609fe987e8)
 
 ### Introduction
-
+---
 Bellabeat is a leading technology company specializing in health and wellness products designed for women. Renowned for their innovative smart devices and wearable technology, Bellabeat integrates technology seamlessly with fashion to empower women in tracking and managing various aspects of their health and well-being. Their products offer features such as activity tracking, sleep monitoring, stress management, and menstrual cycle tracking, all with a stylish design focus.
 
 ![image](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/4e5f040d-6d31-42df-8afe-9d4ffbca1b07)
 
 ### Main Task
-
+---
 The main task here is to analyze smart device usage data to gain insights into how consumers utilize non-Bellabeat smart devices. This analysis aims to answer key questions regarding trends in smart device usage, how these trends may apply to Bellabeat customers, and how they could potentially influence Bellabeat's marketing strategy.
 
 ### Ask Phase
-
+---
 1. What are some trends in smart device usage?
 2. How could these trends apply to Bellabeat customers?
 3. How could these trends help influence Bellabeat's marketing strategy?
 
 ### Prepare
-
+---
 The dataset for this analysis is publicly available on Kaggle and consists of data collected from a survey conducted via Amazon Mechanical Turk between March 12, 2016, and May 12, 2016. Thirty qualified Fitbit users provided consent to share their personal tracking data, including detailed information about physical activity, heart rate, and sleep patterns recorded on a minute-by-minute basis. It's worth noting that variations in data output exist due to the different types of Fitbit trackers used by participants and their unique tracking behaviors and preferences.
 
 ### Process
-
+---
 A variety of tools were utilized for this analysis, including Excel, SQL, BigQuery, Tableau, and Looker Studio. The dataset was downloaded and organized in a folder with proper file-naming conventions. Data cleaning and manipulation processes were documented using Kaggle notebook, ensuring that the data was ready for analysis. Duplicate data was identified and corrected using Excel and SQL, with data types adjusted as needed. For instance, numerical data were formatted as numbers, and activity dates were converted to date format using Tableau.
 
 ### Analyze
-
+---
 A dedicated dataset named "Bellabeats" was created in BigQuery, with tables created and data uploaded in CSV format. Users were categorized based on their app engagement frequency, and visualizations were generated using Tableau, Looker, and PowerPoint to extract meaningful insights from the data.
 
 
 ### Data Cleaning and Analysis in  Google Big Query
+---
 ```sql
 -- Count number of rows in main table - daily_activity
 SELECT COUNT(*)
@@ -141,6 +142,7 @@ GROUP BY Id;
 ```
 
 ### Categorization of Users
+---
 Participants who used the app for more than 25 days out of 31 days were categorized as 'Frequent User' while between 15 and 24, 'Moderate User' and the last group 'Light User' logged in to the app less than 15 days during the entire period.
 ```sql
 -- Classification of different categories of users
@@ -160,12 +162,10 @@ GROUP BY
 
 ![Categories of user](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/472c15e8-5e1e-4be6-b454-c9df3fb96165)
 
-
-
 ![User by Category Looker](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/1d2a0024-ef02-41aa-a0e1-e63860464a53)
 
 Average intensity of daily activity was also calculated for each participant using SQL. 
-
+---
 ```sql
 -- Calculate average intensity of daily activity for each participant
 SELECT 
@@ -180,7 +180,6 @@ GROUP BY
     id;
 ```
 ![Average daily intensity](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/8d8b76d3-160d-4b2e-93f1-d0b644035109)
-
 
 ![image](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/6912c119-d685-4295-9733-40ad6b0da541)
 
@@ -243,8 +242,9 @@ FROM
 GROUP BY 
     Id;
 ```
-Average calories burned vs Very active minute
 
+Average calories burned vs Very active minute
+---
 ![image](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/7d473125-f10f-458e-923e-e390ae6c61e3)
 
 ```sql
@@ -322,7 +322,7 @@ GROUP BY
 ![image](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/fcdae6b5-9b19-40da-8d4a-231bc5a4b0e8)
 
 ### Recommendation
-
+---
 Based on the analysis conducted on the Bellabeats fitness data, several recommendations can be made:
 
 1. **Engage with Frequent Users:** Identify and target users who engage with the app frequently (25 to 31 days out of 31 days) as they represent highly active and committed users. Consider offering them exclusive rewards, discounts, or personalized experiences to enhance their loyalty and satisfaction.
@@ -340,3 +340,6 @@ Based on the analysis conducted on the Bellabeats fitness data, several recommen
 7. **Offer Personalized Recommendations:** Leverage the insights derived from the data analysis to offer personalized recommendations and insights to users based on their activity levels, preferences, and goals. Provide tailored workout plans, nutrition advice, and lifestyle tips to help users optimize their health and fitness outcomes.
 
 By implementing these recommendations, Bellabeats can enhance user engagement, satisfaction, and retention, ultimately driving the success and growth of their smart fitness technology platform.
+
+Thank you for your attention.
+---
