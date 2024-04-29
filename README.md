@@ -129,16 +129,6 @@ ORDER BY ActivityDate DESC;
 SELECT Id, ActivityDate, ROUND(AVG(Calories)) AS Avg_Calories
 FROM `bellabeats97440.fitness_data.daily_activity`
 GROUP BY Id, ActivityDate;
-
--- Categorization of Users
-SELECT Id, COUNT(Id) AS total_times_logged,
-  CASE
-    WHEN COUNT(Id) BETWEEN 25 AND 31 THEN 'Frequent User'
-    WHEN COUNT(Id) BETWEEN 15 AND 24 THEN 'Moderate User'
-    WHEN COUNT(Id) BETWEEN 0 AND 14 THEN 'Light User'
-  END AS app_user_category
-FROM `bellabeats97440.fitness_data.daily_activity`
-GROUP BY Id;
 ```
 
 ### Categorization of Users
