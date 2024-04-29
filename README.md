@@ -1,4 +1,4 @@
-# BigQuery_Looker
+# "Fitness Data Insights: Leveraging Analytics for Health and Wellness Optimization"
 
 ![goran-ivos-iOykDIkZLQw-unsplash](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/c1b96f6a-c193-45b4-976c-a9609fe987e8)
 
