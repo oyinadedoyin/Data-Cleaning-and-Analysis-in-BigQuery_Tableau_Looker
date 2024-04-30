@@ -28,7 +28,7 @@ A variety of tools were utilized for this analysis, including Excel, SQL, BigQue
 
 ### Analyze
 ---
-A dedicated dataset named "Bellabeats" was created in BigQuery, with tables created and data uploaded in CSV format. Users were categorized based on their app engagement frequency, and visualizations were generated using Tableau, Looker, and PowerPoint to extract meaningful insights from the data.
+A dedicated dataset named "Bellabeats" was created in BigQuery, with tables created and data uploaded in CSV format. Users were categorized based on their app engagement frequency, and visualizations were generated using Tableau and Looker to extract meaningful insights from the data.
 
 
 ### Data Cleaning and Analysis in  Google Big Query
