@@ -311,7 +311,7 @@ GROUP BY
 ```
 ![image](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/fcdae6b5-9b19-40da-8d4a-231bc5a4b0e8)
 
-# 📊 Answering the Research Questions vs Marketing Insights   
+# 📊 Answering the Research Questions   
 
 ## 1. 📈 **What are some trends in smart device usage?**  
 
