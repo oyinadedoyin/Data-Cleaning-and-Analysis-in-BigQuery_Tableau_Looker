@@ -313,7 +313,7 @@ GROUP BY
 
 ### Recommendation
 ---
-Based on the analysis conducted on the Bellabeats fitness data, several recommendations can be made:
+Based on the analysis conducted on the data, several recommendations can be made:
 
 1. **Engage with Frequent Users:** Identify and target users who engage with the app frequently (25 to 31 days out of 31 days) as they represent highly active and committed users. Consider offering them exclusive rewards, discounts, or personalized experiences to enhance their loyalty and satisfaction.
 
