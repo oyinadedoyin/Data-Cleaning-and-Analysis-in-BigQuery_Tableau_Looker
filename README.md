@@ -401,8 +401,7 @@ Based on the analysis of Fitbit users' data, the following key trends in smart d
 
 ---
 
-### 📌 **Summary**  
-By understanding user engagement and activity trends, Bellabeat can:  
+### 📌 By understanding user engagement and activity trends, Bellabeat can:  
 - Tailor **personalized user experiences**,  
 - Address **common gaps** (like sedentarism and poor sleep tracking), and  
 - Position itself as a **comprehensive women’s wellness solution** through focused marketing strategies.  
