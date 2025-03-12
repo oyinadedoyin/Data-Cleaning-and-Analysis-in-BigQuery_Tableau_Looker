@@ -311,7 +311,7 @@ GROUP BY
 ```
 ![image](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/fcdae6b5-9b19-40da-8d4a-231bc5a4b0e8)
 
-# 📊 Bellabeat Smart Device Usage Analysis & Marketing Insights  
+# 📊 Answering the Research Questions vs Marketing Insights   
 
 ## 1. 📈 **What are some trends in smart device usage?**  
 
@@ -409,7 +409,7 @@ By understanding user engagement and activity trends, Bellabeat can:
 
 ---
 
-# ✅ Recommendation Summary for Bellabeat: Actionable Insights  
+# ✅ Recommendation for Bellabeat: Actionable Insights  
 
 ## 1. **Personalized User Engagement Strategies**  
 - **Segment users** into Frequent, Moderate, and Light categories to deliver **targeted content and experiences**.  
