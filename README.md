@@ -311,25 +311,155 @@ GROUP BY
 ```
 ![image](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/fcdae6b5-9b19-40da-8d4a-231bc5a4b0e8)
 
-### Recommendation
+# 📊 Bellabeat Smart Device Usage Analysis & Marketing Insights  
+
+## 1. 📈 **What are some trends in smart device usage?**  
+
+Based on the analysis of Fitbit users' data, the following key trends in smart device usage were observed:  
+
+### a. **User Engagement Varies Significantly**  
+- Users were categorized into **Frequent**, **Moderate**, and **Light** users based on the number of days they logged activity.  
+- **Frequent users** engaged consistently (25–31 days/month), while **Light users** engaged fewer than 15 days/month.  
+- This highlights varying degrees of commitment and reliance on wearable devices.  
+
+### b. **High Sedentary Behavior Across Users**  
+- **Sedentary minutes** were the highest daily activity segment across all user categories.  
+- Most users averaged **over 700 minutes (approximately 11–12 hours)** of sedentary time daily.  
+
+### c. **Low Engagement in High-Intensity Activities**  
+- **Very Active Minutes** were significantly lower than sedentary and lightly active minutes.  
+- Users engaged more in **lightly active minutes** compared to fairly or very active minutes.  
+
+### d. **Strong Correlation Between Activity and Calories Burned**  
+- Higher active minutes (light, fairly, very active) correlated with **higher calories burned**, suggesting active users manage weight/health better.  
+- **Sedentary users burned fewer calories on average.**  
+
+### e. **Sleep Tracking Was Underutilized**  
+- Many users **did not track sleep regularly** or had inconsistent sleep records.  
+- Indicates potential gaps in holistic wellness tracking.  
+
 ---
-Based on the analysis conducted on the data, several recommendations can be made:
 
-1. **Engage with Frequent Users:** Identify and target users who engage with the app frequently (25 to 31 days out of 31 days) as they represent highly active and committed users. Consider offering them exclusive rewards, discounts, or personalized experiences to enhance their loyalty and satisfaction.
+## 2. 💡 **How could these trends apply to Bellabeat customers?**  
 
-2. **Encourage Moderate Users:** Encourage users who engage with the app moderately (15 to 24 days out of 31 days) to increase their activity levels and usage frequency. Implement strategies such as personalized notifications, challenges, or goal-setting features to motivate them to be more active and consistent in using the app.
+### a. **Diverse Customer Engagement Patterns**  
+- Bellabeat customers are likely to fall into **Frequent, Moderate, and Light user** categories.  
+- Not all users will engage daily — **customizable engagement approaches are needed**.  
 
-3. **Re-engage Light Users:** Re-engage users who use the app less frequently (0 to 14 days out of 31 days) by offering incentives, reminders, or content tailored to their interests and preferences. Focus on providing valuable and relevant content to encourage them to incorporate the app into their daily routines.
+### b. **Focus on Combating Sedentary Lifestyle**  
+- Given high sedentary time, Bellabeat can design **reminders or gamified activities** to encourage movement.  
+- Especially target office workers or moms with sedentary lifestyles.  
 
-4. **Improve Activity Intensity Tracking:** Enhance the app's ability to track and analyze users' activity intensity levels, including sedentary, lightly active, fairly active, and very active minutes. Provide users with detailed insights into their activity patterns and progress towards their fitness goals to empower them to make informed decisions about their health and wellness.
+### c. **Need for Personalized Fitness Goals**  
+- As most users engage in light rather than intense activities, Bellabeat could promote **low-impact wellness routines** (e.g., yoga, meditation, walking).  
+- Personalized coaching through the app to **align with women’s health needs**.  
 
-5. **Optimize Calorie Burn Monitoring:** Improve the accuracy and reliability of the app's calorie burn monitoring feature by refining the algorithms and data processing methods used. Ensure that users receive accurate information about their calorie expenditure during different activities and exercises to support their fitness and weight management efforts.
+### d. **Opportunities to Enhance Sleep Monitoring**  
+- With underutilized sleep tracking, Bellabeat could **educate users** on sleep importance and **incentivize regular tracking** (e.g., sleep challenges).  
 
-6. **Enhance Data Visualization:** Enhance the visualizations and reports generated from the fitness data to make them more intuitive, interactive, and actionable. Utilize advanced data visualization tools and techniques to present complex information in a clear and comprehensible manner, enabling users to interpret and act upon the insights effectively.
+### e. **Encourage Holistic Health View**  
+- Many users focus on steps or calories alone, **missing out on stress, menstrual health, and sleep** — areas where Bellabeat specializes.  
+- **Market Bellabeat as a comprehensive women-focused health solution.**  
 
-7. **Offer Personalized Recommendations:** Leverage the insights derived from the data analysis to offer personalized recommendations and insights to users based on their activity levels, preferences, and goals. Provide tailored workout plans, nutrition advice, and lifestyle tips to help users optimize their health and fitness outcomes.
+---
 
-By implementing these recommendations, Bellabeats can enhance user engagement, satisfaction, and retention, ultimately driving the success and growth of their smart fitness technology platform.
+## 3. 🚀 **How could these trends help influence Bellabeat's marketing strategy?**  
+
+### a. **Segmentation-based Marketing**  
+- **Target users by engagement level:**  
+  - **Frequent Users**: Promote **advanced features** (stress management, cycle tracking).  
+  - **Moderate/Light Users**: Share **motivational content, reminders, and re-engagement campaigns**.  
+- Example:  
+  > *"Haven’t checked in a while? See how your daily activity is impacting your cycle."*  
+
+### b. **Focus on Combating Sedentarism**  
+- Campaign ideas:  
+  - **"Move More with Bellabeat"**  
+  - **"Beat Sitting Syndrome"**  
+- **In-app nudges and daily goals** to encourage small, consistent movements.  
+
+### c. **Positioning as a Holistic Health Companion**  
+- Differentiate Bellabeat as a **full-spectrum health tracker for women** (stress, cycle, sleep, mindfulness).  
+- Campaign Example:  
+  > *"Because your health is more than steps — track your full wellness journey with Bellabeat."*  
+
+### d. **Promote Ease of Use for Beginners (Light Users)**  
+- Campaign idea:  
+  > *"Start small, live well with Bellabeat."*  
+- Showcasing **how minimal daily tracking can improve health**.  
+- **Starter guides, mini-challenges, and personalized onboarding** for new users.  
+
+### e. **Leverage Social Proof & Community**  
+- Share success stories from frequent users:  
+  > *"Meet Anna: How Bellabeat helped her reduce stress and sleep better."*  
+- Foster **in-app communities and social media groups** where women share their health journeys.  
+
+### f. **Educate on Underutilized Features (e.g., Sleep Tracking)**  
+- Use **blogs, in-app pop-ups, and email campaigns** to educate users on:  
+  - **Benefits of sleep** for overall wellness.  
+  - **How Bellabeat supports sleep tracking and improvement.**  
+
+---
+
+### 📌 **Summary**  
+By understanding user engagement and activity trends, Bellabeat can:  
+- Tailor **personalized user experiences**,  
+- Address **common gaps** (like sedentarism and poor sleep tracking), and  
+- Position itself as a **comprehensive women’s wellness solution** through focused marketing strategies.  
+
+---
+
+# ✅ Recommendation Summary for Bellabeat: Actionable Insights  
+
+## 1. **Personalized User Engagement Strategies**  
+- **Segment users** into Frequent, Moderate, and Light categories to deliver **targeted content and experiences**.  
+- **Frequent Users**: Offer advanced insights (stress, menstrual tracking, deeper analytics).  
+- **Light/Moderate Users**: Use **motivational messages, onboarding, and small challenges** to encourage daily engagement.  
+
+## 2. **Combat Sedentary Behavior**  
+- Implement **smart reminders** and **gamified movement challenges** to reduce sedentary time.  
+- Example features:  
+  - In-app "Time to move!" alerts.  
+  - "Stand and stretch" streak challenges.  
+
+## 3. **Promote Low-Impact Activities & Personalized Goals**  
+- Focus on **wellness routines** like yoga, meditation, and walking that appeal to women's specific health needs.  
+- Provide **daily or weekly personalized fitness goals** that adapt to user activity levels.  
+
+## 4. **Enhance Sleep Tracking and Education**  
+- Educate users about the importance of sleep through:  
+  - **In-app educational pop-ups**.  
+  - **Email series** explaining sleep benefits and how to optimize it using Bellabeat.  
+- Create **sleep challenges** and **reward-based systems** to motivate consistent sleep tracking.  
+
+## 5. **Position Bellabeat as a Holistic Wellness Solution**  
+- Market Bellabeat as **more than a fitness tracker** — emphasize features for:  
+  - Stress tracking.  
+  - Menstrual cycle tracking.  
+  - Mindfulness and meditation.  
+- Campaign idea: *"Your complete health companion — beyond steps and calories."*  
+
+## 6. **Community Building and Social Proof**  
+- Feature **real success stories** from users who improved their health with Bellabeat.  
+- Foster **online communities and in-app groups** to create a sense of belonging and motivation.  
+- Example: *"Meet your wellness tribe — join thousands of women on the same journey."*  
+
+## 7. **Educate on Underutilized Features (e.g., Sleep, Stress)**  
+- Run **feature spotlight campaigns** to inform users of hidden/underused features.  
+- Example formats:  
+  - Blog posts.  
+  - Short videos.  
+  - In-app tutorials.  
+
+---
+
+### 🎯 **Conclusion**  
+By implementing these actionable insights, Bellabeat can:  
+- Increase user retention and engagement.  
+- Promote healthier lifestyle choices among its users.  
+- Differentiate itself as a **comprehensive, women-centric health and wellness platform**.  
+
+---
 
 Thank you for your attention.
 ---
