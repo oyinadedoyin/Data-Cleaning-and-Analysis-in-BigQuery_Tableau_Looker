@@ -318,23 +318,28 @@ GROUP BY
 Based on the analysis of Fitbit users' data, the following key trends in smart device usage were observed:  
 
 ### a. **User Engagement Varies Significantly**  
+---
 - Users were categorized into **Frequent**, **Moderate**, and **Light** users based on the number of days they logged activity.  
 - **Frequent users** engaged consistently (25–31 days/month), while **Light users** engaged fewer than 15 days/month.  
 - This highlights varying degrees of commitment and reliance on wearable devices.  
 
 ### b. **High Sedentary Behavior Across Users**  
+---
 - **Sedentary minutes** were the highest daily activity segment across all user categories.  
 - Most users averaged **over 700 minutes (approximately 11–12 hours)** of sedentary time daily.  
 
 ### c. **Low Engagement in High-Intensity Activities**  
+---
 - **Very Active Minutes** were significantly lower than sedentary and lightly active minutes.  
 - Users engaged more in **lightly active minutes** compared to fairly or very active minutes.  
 
 ### d. **Strong Correlation Between Activity and Calories Burned**  
+---
 - Higher active minutes (light, fairly, very active) correlated with **higher calories burned**, suggesting active users manage weight/health better.  
 - **Sedentary users burned fewer calories on average.**  
 
 ### e. **Sleep Tracking Was Underutilized**  
+---
 - Many users **did not track sleep regularly** or had inconsistent sleep records.  
 - Indicates potential gaps in holistic wellness tracking.  
 
