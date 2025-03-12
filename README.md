@@ -311,9 +311,9 @@ GROUP BY
 ```
 ![image](https://github.com/Melrowze/BigQuery_Looker/assets/44920093/fcdae6b5-9b19-40da-8d4a-231bc5a4b0e8)
 
-# Answering the Research Questions vs Marketing Insights   
+# 📊 Answering the Research Questions vs Marketing Insights   
 
-## 1. **What are some trends in smart device usage?**  
+## 1. 📈 **What are some trends in smart device usage?**  
 
 Based on the analysis of Fitbit users' data, the following key trends in smart device usage were observed:  
 
@@ -340,7 +340,7 @@ Based on the analysis of Fitbit users' data, the following key trends in smart d
 
 ---
 
-## 2. **How could these trends apply to Bellabeat customers?**  
+## 2. 💡 **How could these trends apply to Bellabeat customers?**  
 
 ### a. **Diverse Customer Engagement Patterns**  
 - Bellabeat customers are likely to fall into **Frequent, Moderate, and Light user** categories.  
@@ -363,7 +363,7 @@ Based on the analysis of Fitbit users' data, the following key trends in smart d
 
 ---
 
-## 3. **How could these trends help influence Bellabeat's marketing strategy?**  
+## 3. 🚀 **How could these trends help influence Bellabeat's marketing strategy?**  
 
 ### a. **Segmentation-based Marketing**  
 - **Target users by engagement level:**  
@@ -409,7 +409,7 @@ By understanding user engagement and activity trends, Bellabeat can:
 
 ---
 
-# Marketing Strategy Recommendations
+# ✅ Recommendation Summary for Bellabeat: Actionable Insights 
 
 ## 1. **Personalized User Engagement Strategies**  
 - **Segment users** into Frequent, Moderate, and Light categories to deliver **targeted content and experiences**.  
